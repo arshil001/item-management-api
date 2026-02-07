@@ -25,6 +25,11 @@ The application uses in-memory storage (ArrayList) and does not require a databa
 
 ## API Endpoints
 
+### Get Item
+**GET** `/api/items/id`
+
+
+
 ### Add Item
 **POST** `/api/items`
 
