@@ -35,7 +35,8 @@ Request Body:
   "name": "Laptop",
   "description": "Gaming Laptop"
 }
-### Get Item By id
-**GET** `/api/items/id`
+
+
+
 
 
